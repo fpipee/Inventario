@@ -1,0 +1,14 @@
+C:\Users\Tock\Desktop\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Tock\Desktop\Inventario\Inventario\obj\Debug\Inventory.Form1.resources
+C:\Users\Tock\Desktop\Inventario\Inventario\obj\Debug\Inventory.Presentation.FormCreate.resources
+C:\Users\Tock\Desktop\Inventario\Inventario\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\Tock\Desktop\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Tock\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Tock\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Tock\Desktop\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Tock\Desktop\Inventario\Inventario\bin\Debug\EntityFramework.dll
+C:\Users\Tock\Desktop\Inventario\Inventario\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tock\Desktop\Inventario\Inventario\bin\Debug\EntityFramework.xml
+C:\Users\Tock\Desktop\Inventario\Inventario\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tock\Desktop\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Tock\Desktop\Inventario\Inventario\obj\Debug\Inventario.pdb
